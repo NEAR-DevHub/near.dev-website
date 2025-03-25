@@ -1,9 +1,19 @@
 {
   "redirects": [
     {
-        "source": "/(.*)",
-        "permanent": true,
-        "destination": "https://dev.near.org"
+      "source": "/josh",
+      "permanent": true,
+      "destination": "https://calendar.app.google/EH47q5uefTp7ekRVA"
+    },
+    {
+      "source": "/josh-guille",
+      "permanent": true,
+      "destination": "https://calendar.app.google/ZM22zPZ3jkLR66kM9"
+    },
+    {
+      "source": "/(.*)",
+      "permanent": true,
+      "destination": "https://dev.near.org"
     }
   ]
 }
