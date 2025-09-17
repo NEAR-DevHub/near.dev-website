@@ -1,4 +1,7 @@
 {
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "framework": "vite",
   "redirects": [
     {
       "source": "/josh",
@@ -9,11 +12,12 @@
       "source": "/josh-guille",
       "permanent": true,
       "destination": "https://calendar.app.google/ZM22zPZ3jkLR66kM9"
-    },
+    }
+  ],
+  "rewrites": [
     {
       "source": "/(.*)",
-      "permanent": true,
-      "destination": "https://dev.near.org"
+      "destination": "/index.html"
     }
   ]
 }
