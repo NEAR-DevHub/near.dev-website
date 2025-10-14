@@ -12,6 +12,11 @@
       "source": "/josh-guille",
       "permanent": true,
       "destination": "https://calendar.app.google/ZM22zPZ3jkLR66kM9"
+    },
+    {
+      "source": "/global-contracts",
+      "permanent": true,
+      "destination": "https://docs.near.org/smart-contracts/global-contracts"
     }
   ],
   "rewrites": [
