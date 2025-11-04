@@ -9,6 +9,11 @@
       "destination": "https://calendar.app.google/EH47q5uefTp7ekRVA"
     },
     {
+      "source": "/guille",
+      "permanent": true,
+      "destination": "https://calendly.com/guille-near/30min"
+    },
+    {
       "source": "/josh-guille",
       "permanent": true,
       "destination": "https://calendar.app.google/ZM22zPZ3jkLR66kM9"
