@@ -29,6 +29,11 @@
       "destination": "https://calendar.app.google/ZhaYgLMcxn5oqgCw7"
     },
     {
+      "source": "/joe",
+      "permanent": true,
+      "destination": "https://calendly.com/joe-rlo/30min"
+    },
+    {
       "source": "/telegram-chats",
       "permanent": true,
       "destination": "https://t.me/addlist/VyVjNaP190JlOGMx"
