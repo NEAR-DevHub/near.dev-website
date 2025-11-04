@@ -14,6 +14,26 @@
       "destination": "https://calendar.app.google/ZM22zPZ3jkLR66kM9"
     },
     {
+      "source": "/vlad",
+      "permanent": true,
+      "destination": "https://calendar.app.google/oACG1URAUBdASor16"
+    },
+    {
+      "source": "/ori",
+      "permanent": true,
+      "destination": "https://calendar.app.google/ghPiPMDJ1x2XuXdr9"
+    },
+    {
+      "source": "/vlad-ori",
+      "permanent": true,
+      "destination": "https://calendar.app.google/ZhaYgLMcxn5oqgCw7"
+    },
+    {
+      "source": "/telegram-chats",
+      "permanent": true,
+      "destination": "https://t.me/addlist/VyVjNaP190JlOGMx"
+    },
+    {
       "source": "/global-contracts",
       "permanent": true,
       "destination": "https://docs.near.org/smart-contracts/global-contracts"
