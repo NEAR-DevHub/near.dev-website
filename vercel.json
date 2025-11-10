@@ -47,6 +47,11 @@
       "source": "/global-contracts",
       "permanent": true,
       "destination": "https://docs.near.org/smart-contracts/global-contracts"
+    },
+    {
+      "source": "/office-hours",
+      "permanent": true,
+      "destination": "https://calendar.app.google/tvr9Ng8Lad1y7Em6A"
     }
   ],
   "rewrites": [
